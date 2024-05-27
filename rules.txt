@@ -127,4 +127,7 @@ Seikon no Qwaser II \[(\d{2})\] => 圣痕炼金士S02E\1
 (?<=Seikon no Qwaser.*)\[OVA\] => S00E17
 Seikon no Qwaser \[SP17\] => 圣痕炼金士 S00E18 {[tmdbid=38112;type=tv;s=0;e=18]}
 Seikon no Qwaser II \[SP => 圣痕炼金士S00E && S00E <> Ma10p >> EP+18
+
+#字幕组修正
+Meowskers => 喵鲁字幕组
 #========结束========#
