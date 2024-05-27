@@ -26,6 +26,9 @@ Iryu => 医龙
 斗牌传说 第二季\(龙崎・矢木篇 ／市川篇\) => アカギ 2
 
 #========动画========#
+#影之诗F
+(?<=Shadowverse Flame.*)Arc-hen => 
+
 #摇曳露营
 Yuru Camp \[Heya Camp EP00\] => Yuru Camp S00E01
 Yuru Camp \[Hora Camp\] => Yuru Camp S00E02
