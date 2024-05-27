@@ -2,21 +2,26 @@
 #========电影========#
 #奥本海默
 Oppenheimer\.2023 => 奥本海默】
+
 #战争与和平
 War and Peace 1966 Criterion Collection Part IV => 战争与和平4：皮埃尔·别祖霍夫
 War and Peace 1966 Criterion Collection Part III => 战争与和平3：1812年
 War and Peace 1966 Criterion Collection Part II => 战争与和平2：娜塔莎·罗斯托娃
 War and Peace 1966 Criterion Collection Part I => 战争与和平1：安德烈·博尔孔斯基
+
 #行骗天下JP：运势篇
 The.Confidenceman.JP.Unsei.Hen.SP => 行骗天下JP：运势篇
 
 #========电视剧========#
 #99.9-刑事专业律师-
 99.9：刑事专业律师.99.9：Criminal.Lawyer => 99.9.Keiji.Senmon.Bengoshi
+
 #医龙
 Iryu => 医龙
+
 #卖房子的女人
 家売るオンナの逆襲 => 卖房子的女人S02
+
 #斗牌传说 第二季(龙崎・矢木篇 ／市川篇)
 斗牌传说 第二季\(龙崎・矢木篇 ／市川篇\) => アカギ 2
 
@@ -29,54 +34,71 @@ Yuru Camp Season 2 \[Mystery Camp\] => Yuru Camp S00E04
 Yuru Camp Season 2 \[Tabisuru Shima Rin\] => Yuru Camp S00E05
 Heya Camp \[SP\] => Heya Camp S00E01
 Yuru Camp Movie => Yuru Camp Movie{[tmdbid=566466;type=movie]}
+
 #模型姐妹
 Plastic Nee\-san => 模型姐妹 OVA{[tmdbid=1105264;type=movie]}
+
 #命运石之门 0
 命运石之门 0 => 命运石之门0{[tmdbid=78102;type=tv]}
+
 #金田一少年事件簿
 金田一少年事件簿OAD 黑魔术杀人事件 前篇 => 金田一少年事件簿OAD 黑魔术杀人事件 S01E01
 金田一少年事件簿OAD 黑魔术杀人事件 后篇 => 金田一少年事件簿OAD 黑魔术杀人事件 S01E02
+
 #秀逗魔导士
 秀逗魔导士SPECIAL \- S1 => 秀逗魔导士 - S0
 秀逗魔导士EXCELLENT \- S1 => 秀逗魔导士 - S0 && S0E <> 集 >> EP+3
 秀逗魔导士完全无欠版 => 秀逗魔导士Perpect
+
 #浪客剑心
 浪客剑心：维新志士的镇魂歌 => 浪客剑心：给维新志士的镇魂歌
+
 #少女歌剧
 Revue Starlight 剧场版 => Revue Starlight 剧场版{[tmdbid=645440;type=movie]}
+
 #白箱
 Exodus\! => 白箱 S00E01
 Daisan Hikou Shoujotai => 白箱 S00E02
+
 #女神异闻录4
 Persona4 the ANIMATION \[01\(Director's Cut Ver\.\)\] => 女神异闻录4 S00E02
 Persona4 the ANIMATION \[True End Episode\] => 女神异闻录4 S00E01
 Persona4 the Golden ANIMATION \[Another End Episode => 女神异闻录4 黄金版 S00E01
+
 #惊爆草莓
 ストロベリー・パニック => 惊爆草莓 S01E
+
 #放浪男孩
 放浪息子 第12話 => 放浪男孩 S01E11
 放浪息子 第10話(?!.*TV放送) => 放浪男孩 S00E01
 放浪息子 第11話 => 放浪男孩 S00E02
+
 #稻荷恋之歌
 いなり、こんこん、恋いろは。 OAD => 稻荷恋之歌 S00E01
+
 #微笑的闪士
 \[Magic-Raws\] Bonus Scenes => [Magic-Raws]微笑的闪士 S00E01
-#\[Magic\-Raws\] Bonus Scenes => 微笑的闪士 S00E01-06
+
 #斩服少女
 Kill la Kill \[25\] => Kill la Kill S00E01
 Kill la Kill \[Memories of Mikisugi Aikuro\] => Kill la Kill S00E02
 Kill la Kill \[IV => Kill la Kill S00E && S00E <> Kill >> EP+2
+
 #太空丹迪
 Space Dandy (?=(0[1-9]|1[0-3])) => 太空丹迪S01E
 Space Dandy (?=(1[4-9]|2[0-2])) => 太空丹迪S02E0 && S02E0 <> BD >> EP-13
 Space Dandy (?=(2[3-6])) => 太空丹迪S02E && S02E <> BD >> EP-13
+
 #星际牛仔
 Cowboy Bebop => 星际牛仔.1998
+
 #圣母在上
 (?<=Maria-sama ga Miteru.*?)Vol.0(\d) => S0\1
 Maria-sama ga Miteru \[SP03\] => 圣母在上 S00
+
 #噬魂师
 Soul Eater \[SP10\] => Soul Eater S00
+
 #噬血狂袭
 ストライク・ザ・ブラッド FINAL => 噬血狂袭 S05
 ストライク・ザ・ブラッド IV => 噬血狂袭 S04
@@ -84,6 +106,7 @@ Soul Eater \[SP10\] => Soul Eater S00
 ストライク・ザ・ブラッド II => 噬血狂袭 S02
 ストライク・ザ・ブラッド ヴァルキュリアの王国篇 => 噬血狂袭 S00
 ストライク・ザ・ブラッド 消えた聖槍篇 => 噬血狂袭 S00E03
+
 #恶魔高校D×D
 High School D×D New Born - SP => High School D×D S00E && S00E <> BD >> EP+11
 High School D×D - SP => High School D×D S00E && S00E <> BD >> EP+1
@@ -94,6 +117,7 @@ High School D×D New - (0[1-9]|1[0-2]) => High School D×D S02E\1
 High School D×D New - 13 => High School D×D S00E11
 High School D×D - (0[1-9]|1[0-2]) => High School D×D S01E\1
 High School D×D - (?=(1[3-4])) => High School D×D S00E0 && S00E0 <> BD >> EP-5
+
 #圣痕炼金士
 Seikon no Qwaser II \[(\d{2})\] => 圣痕炼金士S02E\1
 (?<!II.*)(?<=Seikon no Qwaser.*)SP(?=(0[1-9]|1[0-6])) => S00E
