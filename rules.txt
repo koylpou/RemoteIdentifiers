@@ -51,10 +51,10 @@ Plastic Nee\-san => 模型姐妹 OVA{[tmdbid=1105264;type=movie]}
 #秀逗魔导士
 秀逗魔导士SPECIAL \- S1 => 秀逗魔导士 - S0
 秀逗魔导士EXCELLENT \- S1 => 秀逗魔导士 - S0 && S0E <> 集 >> EP+3
-秀逗魔导士完全无欠版 => 秀逗魔导士Perpect
+秀逗魔导士完全无欠版 => 秀逗魔导士Perfect
 
 #浪客剑心
-浪客剑心：维新志士的镇魂歌 => 浪客剑心：给维新志士的镇魂歌
+浪客剑心：维新志士的镇魂歌 => 浪客剑心：维新志士的镇魂歌{[tmdbid=39977;type=movie]}
 
 #少女歌剧
 Revue Starlight 剧场版 => Revue Starlight 剧场版{[tmdbid=645440;type=movie]}
