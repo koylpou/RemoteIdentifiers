@@ -35,7 +35,8 @@ Yuru Camp \[Hora Camp\] => Yuru Camp S00E02
 Yuru Camp \[Survival Camp\] => Yuru Camp S00E03
 Yuru Camp Season 2 \[Mystery Camp\] => Yuru Camp S00E04
 Yuru Camp Season 2 \[Tabisuru Shima Rin\] => Yuru Camp S00E05
-Heya Camp \[SP\] => Heya Camp S00E01
+Heya Camp \[SP\] => 房间露营△ S00E01
+Heya Camp => 房间露营△
 Yuru Camp Movie => Yuru Camp Movie{[tmdbid=566466;type=movie]}
 
 #模型姐妹
