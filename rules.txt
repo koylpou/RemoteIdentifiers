@@ -26,6 +26,11 @@ Iryu => 医龙
 斗牌传说 第二季\(龙崎・矢木篇 ／市川篇\) => アカギ 2
 
 #========动画========#
+#排球少年
+ハイキュー!! OAD => Haikyuu!! S00E
+Haikyuu!! OVA => Haikyuu!! S00E && S00E <> - >> EP+3
+Haikyuu!! To The Top => Haikyuu!! S04
+
 #影之诗F
 (?<=Shadowverse Flame.*)Arc-hen => 
 
