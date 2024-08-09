@@ -128,11 +128,36 @@ High School D×D - (0[1-9]|1[0-2]) => High School D×D S01E\1
 High School D×D - (?=(1[3-4])) => High School D×D S00E0 && S00E0 <> BD >> EP-5
 
 #圣痕炼金士
-Seikon no Qwaser II \[(\d{2})\] => 圣痕炼金士S02E\1
+Seikon no Qwaser II \[(\d{2})\] => 圣痕炼金士 S02E\1
 (?<!II.*)(?<=Seikon no Qwaser.*)SP(?=(0[1-9]|1[0-6])) => S00E
 (?<=Seikon no Qwaser.*)\[OVA\] => S00E17
 Seikon no Qwaser \[SP17\] => 圣痕炼金士 S00E18 {[tmdbid=38112;type=tv;s=0;e=18]}
-Seikon no Qwaser II \[SP => 圣痕炼金士S00E && S00E <> Ma10p >> EP+18
+Seikon no Qwaser II \[SP => 圣痕炼金士 S00E && S00E <> Ma10p >> EP+18
+
+#物语系列
+Bakemonogatari (0[1-9]|1[0-2]) => 物语系列 S01E\1
+Bakemonogatari (?=(1[3-5])) => 物语系列 S00E0 && S00E0 <> BD >> EP-11
+Nisemonogatari  => 物语系列 S02E
+Nekomonogatari (Kuro)  => 物语系列 S00E && S00E <> BD >> EP+5
+Nekomonogatari (Shiro) Recap 01 => 物语系列 S00E10
+Nekomonogatari (Shiro)  => 物语系列 S03E
+Kabukimonogatari Recap 02 => 物语系列 S00E11
+Kabukimonogatari  => 物语系列 S03E && S03E <> BD >> EP+5
+Otorimonogatari Recap 03 => 物语系列 S00E12
+Otorimonogatari  => 物语系列 S03E && S03E <> BD >> EP+9
+Onimonogatari  => 物语系列 S03E && S03E <> BD >> EP+13
+Koimonogatari  => 物语系列 S03E && S03E <> BD >> EP+17
+Hanamonogatari  => 物语系列 S00E && S00E <> BD >> EP+12
+Tsukimonogatari  => 物语系列 S00E && S00E <> BD >> EP+17
+Owarimonogatari S2  => 物语系列 S00E && S00E <> BD >> EP+34
+Owarimonogatari 01 => 物语系列 S04E01 part1
+Owarimonogatari 02 => 物语系列 S04E01 part2
+Owarimonogatari  => 物语系列 S04E && S04E <> BD >> EP-1
+Koyomimonogatari  => 物语系列 S00E && S00E <> BD >> EP+21
+Kizumonogatari 01 => 伤物语1：铁血篇
+Kizumonogatari 02 => 伤物语2：热血篇
+Kizumonogatari 03 => 伤物语3：冷血篇
+Zoku Owarimonogatari  => 物语系列 S00E && S00E <> BD >> EP+41
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
