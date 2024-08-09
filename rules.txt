@@ -138,9 +138,9 @@ Seikon no Qwaser II \[SP => 圣痕炼金士 S00E && S00E <> Ma10p >> EP+18
 Bakemonogatari (0[1-9]|1[0-2]) => 物语系列 S01E\1
 Bakemonogatari (?=(1[3-5])) => 物语系列 S00E0 && S00E0 <> BD >> EP-11
 Nisemonogatari  => 物语系列 S02E
-Nekomonogatari (Kuro)  => 物语系列 S00E && S00E <> BD >> EP+5
-Nekomonogatari (Shiro) Recap 01 => 物语系列 S00E10
-Nekomonogatari (Shiro)  => 物语系列 S03E
+Nekomonogatari \(Kuro\)  => 物语系列 S00E && S00E <> BD >> EP+5
+Nekomonogatari \(Shiro\) Recap 01 => 物语系列 S00E10
+Nekomonogatari \(Shiro\)  => 物语系列 S03E
 Kabukimonogatari Recap 02 => 物语系列 S00E11
 Kabukimonogatari  => 物语系列 S03E && S03E <> BD >> EP+5
 Otorimonogatari Recap 03 => 物语系列 S00E12
