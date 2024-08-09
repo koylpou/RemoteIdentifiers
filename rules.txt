@@ -149,6 +149,7 @@ Onimonogatari  => 物语系列 S03E && S03E <> BD >> EP+13
 Koimonogatari  => 物语系列 S03E && S03E <> BD >> EP+17
 Hanamonogatari  => 物语系列 S00E && S00E <> BD >> EP+12
 Tsukimonogatari  => 物语系列 S00E && S00E <> BD >> EP+17
+Zoku Owarimonogatari  => 物语系列 S00E && S00E <> BD >> EP+41
 Owarimonogatari S2  => 物语系列 S00E && S00E <> BD >> EP+34
 Owarimonogatari 01 => 物语系列 S04E01 part1
 Owarimonogatari 02 => 物语系列 S04E01 part2
@@ -157,7 +158,6 @@ Koyomimonogatari  => 物语系列 S00E && S00E <> BD >> EP+21
 Kizumonogatari 01 => 伤物语1：铁血篇
 Kizumonogatari 02 => 伤物语2：热血篇
 Kizumonogatari 03 => 伤物语3：冷血篇
-Zoku Owarimonogatari  => 物语系列 S00E && S00E <> BD >> EP+41
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
