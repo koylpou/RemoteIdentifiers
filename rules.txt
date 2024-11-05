@@ -165,6 +165,9 @@ Kizumonogatari 01 => 伤物语1：铁血篇
 Kizumonogatari 02 => 伤物语2：热血篇
 Kizumonogatari 03 => 伤物语3：冷血篇
 
+#死神 千年血战篇
+死神 千年血战篇 => 死神 千年血战篇 {[tmdbid=30984;type=tv;s=2]}
+
 #字幕组修正
 Meowskers => 喵鲁字幕组
 喵萌Production => 喵萌奶茶屋
