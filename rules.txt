@@ -166,7 +166,7 @@ Kizumonogatari 02 => 伤物语2：热血篇
 Kizumonogatari 03 => 伤物语3：冷血篇
 
 #死神 千年血战篇
-死神 千年血战篇 => 死神 千年血战篇 {[tmdbid=30984;type=tv;s=2]}
+死神 千年血战篇 => 死神 S02
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
