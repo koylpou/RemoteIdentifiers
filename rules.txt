@@ -53,6 +53,7 @@ Plastic Nee\-san => 模型姐妹 OVA{[tmdbid=1105264;type=movie]}
 #金田一少年事件簿
 金田一少年事件簿OAD 黑魔术杀人事件 前篇 => 金田一少年事件簿OAD 黑魔术杀人事件 S01E01
 金田一少年事件簿OAD 黑魔术杀人事件 后篇 => 金田一少年事件簿OAD 黑魔术杀人事件 S01E02
+金田一少年之事件簿・歌剧院新杀人事件 => 金田一少年事件簿：新歌剧院杀人事件
 
 #秀逗魔导士
 秀逗魔导士SPECIAL \- S1 => 秀逗魔导士 - S0
@@ -128,7 +129,7 @@ High School D×D - (0[1-9]|1[0-2]) => High School D×D S01E\1
 High School D×D - (?=(1[3-4])) => High School D×D S00E0 && S00E0 <> BD >> EP-5
 
 #圣痕炼金士
-Seikon no Qwaser II \[(\d{2})\] => 圣痕炼金士 S02E\1
+Seikon no Qwaser II \[(\d{2}).*\] => 圣痕炼金士 S02E\1
 (?<!II.*)(?<=Seikon no Qwaser.*)SP(?=(0[1-9]|1[0-6])) => S00E
 (?<=Seikon no Qwaser.*)\[OVA\] => S00E17
 Seikon no Qwaser \[SP17\] => 圣痕炼金士 S00E18 {[tmdbid=38112;type=tv;s=0;e=18]}
@@ -167,6 +168,15 @@ Kizumonogatari 03 => 伤物语3：冷血篇
 
 #死神 千年血战篇
 死神 千年血战篇 => 死神 S02
+
+#乒乓
+(?<=LowPower-Raws.*?)Ping Pong => 乒乓 {[tmdbid=60811;type=tv]}
+
+#突击莉莉
+Assault Lily Fruits => 突击莉莉 S00 && S00 <> Ma10p >> EP+1
+
+#游戏王 GO RUSH！！
+游戏王 GO RUSH！！ => 游戏王 GO RUSH！！ {[tmdbid=196257;type=tv]}
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
