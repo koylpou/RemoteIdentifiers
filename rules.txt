@@ -32,7 +32,7 @@ Haikyuu!! OVA => Haikyuu!! S00E && S00E <> - >> EP+3
 Haikyuu!! To The Top => Haikyuu!! S04
 
 #影之诗F
-(?<=Shadowverse Flame.*)Arc-hen => 
+Shadowverse Flame => 影之诗 S02
 
 #摇曳露营
 Yuru Camp \[Heya Camp EP00\] => Yuru Camp S00E01
