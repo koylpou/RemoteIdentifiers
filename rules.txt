@@ -178,6 +178,10 @@ Assault Lily Fruits => 突击莉莉 S00 && S00 <> Ma10p >> EP+1
 #游戏王 GO RUSH！！
 游戏王 GO RUSH！！ => 游戏王 GO RUSH！！ {[tmdbid=196257;type=tv]}
 
+#邪神与厨二病少女
+邪神与厨二病少女 \- S1E12 => 邪神与厨二病少女 S00E01
+邪神与厨二病少女 \- S2E12 => 邪神与厨二病少女 S00E02
+
 #字幕组修正
 Meowskers => 喵鲁字幕组
 喵萌Production => 喵萌奶茶屋
