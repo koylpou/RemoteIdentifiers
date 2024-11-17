@@ -168,6 +168,7 @@ Kizumonogatari 03 => 伤物语3：冷血篇
 
 #死神 千年血战篇
 死神 千年血战篇 => 死神 S02
+BLEACH_Sennen_Kessen-hen => 死神 S02
 
 #乒乓
 (?<=LowPower-Raws.*?)Ping Pong => 乒乓 {[tmdbid=60811;type=tv]}
