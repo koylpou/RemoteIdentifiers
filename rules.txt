@@ -90,9 +90,10 @@ Persona4 the Golden ANIMATION \[Another End Episode => 女神异闻录4 黄金�
 \[Magic-Raws\] Bonus Scenes => [Magic-Raws]微笑的闪士 S00E01
 
 #斩服少女
-Kill la Kill \[25\] => Kill la Kill S00E01
-Kill la Kill \[Memories of Mikisugi Aikuro\] => Kill la Kill S00E02
-Kill la Kill \[IV => Kill la Kill S00E && S00E <> Kill >> EP+2
+KILL la KILL \[25\] => Kill la Kill S00E01
+KILL la KILL \[Memories of Mikisugi Aikuro\] => Kill la Kill S00E02
+KILL la KILL \[Making of KILL la KILL 500 Days Part => Kill la Kill S00E0 && S00E <> \] >> EP+2
+KILL la KILL \[KILL la KILL Voices\] => Kill la Kill S00E05
 
 #太空丹迪
 Space Dandy (?=(0[1-9]|1[0-3])) => 太空丹迪S01E
