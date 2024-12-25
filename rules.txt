@@ -193,8 +193,8 @@ Date a Live IV => 约会大作战 S04
 Date A Live III => 约会大作战 S03
 Date A Live II \[11\] => 约会大作战 S00E02
 Date A Live II => 约会大作战 S02
-Date a Bullet \- 01 => 约会大作战 赤黑新章：虚或实
-Date a Bullet \- 02 => 约会大作战 赤黑新章：红与白
+Date a Bullet \- 01 => 约会大作战 赤黑新章：虚或实 {[tmdbid=685099;type=movie]}
+Date a Bullet \- 02 => 约会大作战 赤黑新章：红与白 {[tmdbid=723343;type=movie]}
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
