@@ -188,6 +188,11 @@ Assault Lily Fruits => 突击莉莉 S00 && S00 <> Ma10p >> EP+1
 \(BDBOX Ver\.\)
 Date A Live Mayuri Judgement => 约会大作战 万由里裁决
 Date A Live \[13\] => 约会大作战 S00E01
+Date a Live V => 约会大作战 S05
+Date a Live IV => 约会大作战 S04
+Date A Live III => 约会大作战 S03
+Date A Live II \[11\] => 约会大作战 S00E02
+Date A Live II => 约会大作战 S02
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
