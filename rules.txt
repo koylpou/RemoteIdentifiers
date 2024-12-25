@@ -185,7 +185,9 @@ Assault Lily Fruits => 突击莉莉 S00 && S00 <> Ma10p >> EP+1
 邪神与厨二病少女 \- S2E12 => 邪神与厨二病少女 S00E02
 
 #约会大作战
+\(BDBOX Ver\.\)
 Date A Live Mayuri Judgement => 约会大作战 万由里裁决
+Date A Live \[13\] => 约会大作战 S00E01
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
@@ -194,5 +196,4 @@ VCB-S => VCB-Studio
 
 #辅助识别
 (\b[1-9][0-9][0-9]\b) =>  E\1
-\(BDBOX Ver\.\)
 #========结束========#
