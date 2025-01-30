@@ -196,6 +196,9 @@ Date A Live II => 约会大作战 S02
 Date a Bullet \- 01 => 约会大作战 赤黑新章：虚或实 {[tmdbid=685099;type=movie]}
 Date a Bullet \- 02 => 约会大作战 赤黑新章：红与白 {[tmdbid=723343;type=movie]}
 
+#天降之物
+Sora no Otoshimono II => 天降之物 S02
+
 #字幕组修正
 Meowskers => 喵鲁字幕组
 喵萌Production => 喵萌奶茶屋
