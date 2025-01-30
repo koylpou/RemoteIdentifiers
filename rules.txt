@@ -200,7 +200,8 @@ Date a Bullet \- 02 => 约会大作战 赤黑新章：红与白 {[tmdbid=723343;
 Sora no Otoshimono II => 天降之物 S02
 Sora no Otoshimono \[14\] => 天降之物 S00E01
 Heaven's Lost Property Final：Eternal My Master\[Voice Comic v2\] => 天降之物 S00E02
-Heaven's Lost Property Final：Eternal My Master => 天降之物剧场版：永远的我的鸟笼
+Heaven's Lost Property Final：Eternal My Master => 天降之物剧场版：永远的我的鸟笼 {[tmdbid=246464;type=movie]}
+Gekijouban Sora no Otoshimono - Tokei Jikake no Angeloid => 天降之物剧场版：发条装置之哀女神 {[tmdbid=95170;type=movie]}
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
