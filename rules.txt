@@ -1,7 +1,7 @@
 #========开始========#
 #========电影========#
 #奥本海默
-Oppenheimer\.2023 => 奥本海默】
+Oppenheimer\.2023 => 奥本海默
 
 #战争与和平
 War and Peace 1966 Criterion Collection Part IV => 战争与和平4：皮埃尔·别祖霍夫
