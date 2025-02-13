@@ -213,6 +213,16 @@ Ishuzoku Reviewers [06(B Part Another World Ver.)] => 异种族风俗娘评鉴�
 楓の千房さまおっぱい成長記録 => 魔乳秘剑帖 S00E0 && S00E0 <> 」 >> EP+4
 美乳鍛錬☆ちちとぎ => 魔乳秘剑帖 S00E0
 
+#Re：从零开始的异世界生活
+Re Zero kara Hajimeru Isekai Seikatsu Memory Snow \[SP\] => Re：从零开始的异世界生活 S00E60 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu Hyouketsu no Kizuna \[SP\] => Re：从零开始的异世界生活 S00E61 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu Shin Henshuu-ban => Re：从零开始的异世界生活 S01 {[tmdbid=283196;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu \[SP01_ => Re：从零开始的异世界生活 S00E {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu \[SP02_ => Re：从零开始的异世界生活 S00E {[tmdbid=65942;type=tv]} && S00E <> Ma10p >> EP+11
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season => Re：从零开始的异世界生活 S01 {[tmdbid=65942;type=tv]}
+
+
+
 #字幕组修正
 Meowskers => 喵鲁字幕组
 喵萌Production => 喵萌奶茶屋
