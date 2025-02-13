@@ -219,6 +219,31 @@ Re Zero kara Hajimeru Isekai Seikatsu Hyouketsu no Kizuna \[SP\] => Re：从零�
 Re Zero kara Hajimeru Isekai Seikatsu Shin Henshuu-ban => Re：从零开始的异世界生活 S01 {[tmdbid=283196;type=tv]}
 Re Zero kara Hajimeru Isekai Seikatsu \[SP01_ => Re：从零开始的异世界生活 S00E {[tmdbid=65942;type=tv]}
 Re Zero kara Hajimeru Isekai Seikatsu \[SP02_ => Re：从零开始的异世界生活 S00E {[tmdbid=65942;type=tv]} && S00E <> Ma10p >> EP+11
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP01_12 => Re：从零开始的异世界生活 S00E39 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP01_13 => Re：从零开始的异世界生活 S00E49 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_01 => Re：从零开始的异世界生活 S00E26 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_02 => Re：从零开始的异世界生活 S00E27 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_03 => Re：从零开始的异世界生活 S00E28 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_04 => Re：从零开始的异世界生活 S00E30 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_05 => Re：从零开始的异世界生活 S00E31 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_06 => Re：从零开始的异世界生活 S00E32 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_07 => Re：从零开始的异世界生活 S00E38 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_08 => Re：从零开始的异世界生活 S00E41 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_09 => Re：从零开始的异世界生活 S00E44 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_10 => Re：从零开始的异世界生活 S00E46 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP03_11 => Re：从零开始的异世界生活 S00E50 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP04_01 => Re：从零开始的异世界生活 S00E29 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP05_01 => Re：从零开始的异世界生活 S00E33 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP05_02 => Re：从零开始的异世界生活 S00E35 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP05_03 => Re：从零开始的异世界生活 S00E37 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP06_01 => Re：从零开始的异世界生活 S00E34 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP06_02 => Re：从零开始的异世界生活 S00E40 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP07_01 => Re：从零开始的异世界生活 S00E36 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP07_02 => Re：从零开始的异世界生活 S00E45 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP08_01 => Re：从零开始的异世界生活 S00E42 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP09_01 => Re：从零开始的异世界生活 S00E43 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP10_01 => Re：从零开始的异世界生活 S00E47 {[tmdbid=65942;type=tv]}
+Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP11_01 => Re：从零开始的异世界生活 S00E48 {[tmdbid=65942;type=tv]}
 Re Zero kara Hajimeru Isekai Seikatsu 2nd Season => Re：从零开始的异世界生活 S01 {[tmdbid=65942;type=tv]}
 
 
