@@ -251,8 +251,13 @@ Re Zero kara Hajimeru Isekai Seikatsu 2nd Season => Re：从零开始的异世�
 #字幕组修正
 Meowskers => 喵鲁字幕组
 喵萌Production => 喵萌奶茶屋
+Nekomoe kissaten => 喵萌奶茶屋
 VCB-S => VCB-Studio
 Maho.sub => 魔穗字幕组
+Airota => 千夏字幕组
+FatCatRaw => 肥猫压制
+FSH Subtitle Group => FSH字幕组
+Liuyun => 流云字幕组
 
 #辅助识别
 (\b[1-9][0-9][0-9]\b) =>  E\1
