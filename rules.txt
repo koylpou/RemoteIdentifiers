@@ -218,7 +218,7 @@ Re Zero kara Hajimeru Isekai Seikatsu Memory Snow \[SP\] => Re：从零开始的
 Re Zero kara Hajimeru Isekai Seikatsu Memory Snow => Re：从零开始的异世界生活 雪之回忆 {[tmdbid=532321;type=movie]}
 Re Zero kara Hajimeru Isekai Seikatsu Hyouketsu no Kizuna \[SP\] => Re：从零开始的异世界生活 S00E61 {[tmdbid=65942;type=tv]}
 Re Zero kara Hajimeru Isekai Seikatsu Hyouketsu no Kizuna => Re：从零开始的异世界生活 冰结之绊 {[tmdbid=566451;type=movie]}
-Re Zero kara Hajimeru Isekai Seikatsu Shin Henshuu-ban => Re：从零开始的异世界生活 新编集版 S01
+Re Zero kara Hajimeru Isekai Seikatsu Shin Henshuu\-ban => Re：从零开始的异世界生活 新编集版 S01
 Re Zero kara Hajimeru Isekai Seikatsu \[SP01_ => Re：从零开始的异世界生活 S00E {[tmdbid=65942;type=tv]}
 Re Zero kara Hajimeru Isekai Seikatsu \[SP02_ => Re：从零开始的异世界生活 S00E {[tmdbid=65942;type=tv]} && S00E <> Ma10p >> EP+11
 Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP01_12 => Re：从零开始的异世界生活 S00E39 {[tmdbid=65942;type=tv]}
