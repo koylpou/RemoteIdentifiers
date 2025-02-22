@@ -248,6 +248,9 @@ Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP10_01 => Re：从零开始�
 Re Zero kara Hajimeru Isekai Seikatsu 2nd Season \[SP11_01 => Re：从零开始的异世界生活 S00E48 {[tmdbid=65942;type=tv]}
 Re Zero kara Hajimeru Isekai Seikatsu 2nd Season => Re：从零开始的异世界生活 S01 {[tmdbid=65942;type=tv]}
 
+#间谍过家家
+SPYxFAMILY S2 \[ => 间谍过家家 S02E && S02E <> Ma10p >> EP-25
+
 #字幕组修正
 Meowskers => 喵鲁字幕组
 喵萌Production => 喵萌奶茶屋
