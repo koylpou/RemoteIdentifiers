@@ -251,17 +251,142 @@ Re Zero kara Hajimeru Isekai Seikatsu 2nd Season => Re：从零开始的异世�
 #间谍过家家
 SPYxFAMILY S2 \[ => 间谍过家家 S02E && S02E <> Ma10p >> EP-25
 
-#字幕组修正
-Meowskers => 喵鲁字幕组
-喵萌Production => 喵萌奶茶屋
-Nekomoe kissaten => 喵萌奶茶屋
-VCB-S(?!tudio) => VCB-Studio
-Maho.sub => 魔穗字幕组
-Airota => 千夏字幕组
-FatCatRaw => 肥猫压制
-FSH Subtitle Group => FSH字幕组
-Liuyun => 流云字幕组
-
 #辅助识别
 (\b[1-9][0-9][0-9]\b) =>  E\1
+
+\[Movie\]
+\.(第\d{1,2}集)\. => \1
+(?i)Season( *)0?(\d+) => S\2
+(?<=SBSUB.*DR.*?)- => part
+(?<=\[GM-Team\].*)\[GB\]
+(?i)(?<=(\[Amor压制组\].*))Netflix
+\[[A-Z0-9]{8}\](?=(?i)\.(chs|cht|sc|tc|jpn?|ass|srt|mp4|mkv|avi))
+\[CHS\_CHT\_JP\]\(\w{8}\)
+\[CHT\_JP\]\(\w{8}\)
+\[CHS\_JP\]\(\w{8}\)
+[【\[](Fin|END)[】\]]|(?:|\s|\s-\s)(Fin|END)(?=\])|(?<=\d{1,2})_?(Fin|END)
+\【 => [
+\】 => ]
+＆ => &
+× => x
+chs&jpn => jpsc
+cht&jpn => jptc
+(?<=(VCB-Studio|ANi).*?)2nd Season => S02
+(?<=(VCB-Studio|ANi).*?)IV => S04
+(?<=(VCB-Studio|ANi).*?)III => S03
+(?<=(VCB-Studio|ANi).*?)II => S02
+(?<=[\[【].*?(?:组|組|sub|S(?:UB|ub|tudio)|Raw(?:|s)|社)[\]】])(?:(?:\[|【|★|)\d{1,2}月新番(?:\]|】|★|)|)[\[【](.*?)[\]】] => \1
+(?<=[\W_])(CR|Baha|KKTV|Abema|B-Global|Sentai|MyVideo|AMZN|KKTV|friDay|DSNP|LINETV|NF|Viu)(?=[\W_]) => -\1
+\[BIG5\] => [繁体内封]
+\[GB\] => [简体内封]
+(?i)(CHS|GB|SC)(&|_|＆|\x20)(CHT|BIG5|TC)(&|_|＆|\x20)JA?PN? => 简繁日内封
+(?i)(CHS|GB|SC)_JA?PN?(&|＆|\x20)(CHT|BIG5|TC)_JA?PN? => 简繁日内封
+SUBx3 => 简繁日内封
+(?i)(CHS|GB|SC)(&|＆|\x20)(CHT|BIG5|TC) => 简繁内封
+(?i)(CHS|GB|SC)(_|&|＆|\x20)JA?PN? => 简日双语
+(?i)\[JA?PN?(_|&|＆|\x20)?(SC|CHS|GB)\] => [简日双语]
+(.*)(VCB-Studio)(.*)(Ma10p_?|Hi10p_?)(.*) => \1\2\3\5
+S(eason)? ?0?([2-9]) *\[(OVA|OAD)0?\(?(\d)?\)?\] => S0E\2\4
+(S(eason)? ?0?1 *)?\[(OVA|OAD)(\d+)?\] => S0E\4
+(S(eason)? ?\d+)? *\[\d+\(?(OVA|OAD)\)?\] => S0
+(?<=[\W_])4(?:k|K)(?=[\W_]) => 2160p
+(\d{1,2})[Vv]\d{1} => \1
+(?i)\bani\b => ANi
+(?i)\bBaha\b => Baha
+\[ANi\].*?\/\s* => [ANi] 
+(?i)(?<=\[Baha\].*)\[CHT\]
+(?i)(\[Ani\])(.*?)(\[Baha\]) => \2\3\1
+jibaketa => jibaketa-粤语版
+(?i)\bPCSUB\b => 波洛咖啡厅
+(?i)\bImoeer\b => 启萌字幕组
+(?i)\bKTXP\b => 极影字幕社
+(?i)\bYUI-7\b => 西农YUI汉化组
+Deadmau- RAWS => Deadmau-Raws
+(?i)\bKyokuSai\b => 極彩字幕组
+(?i)\bSTYHSub\b => 霜庭云花Sub
+(?i)\bDMMOESub\b => 动漫萌Sub
+(?i)\bSWSUB\b => SW字幕组
+RoxyLib => 洛琪希图书馆
+(?i)\bDMMSub\b => 动漫萌Sub
+(?i)\bComicat\b => 漫猫字幕社
+(?i)\bRomanticat\b => 猫恋汉化组
+(?i)\bKissSub\b => 爱恋字幕社
+(?i)\bOPFansMaplesnow\b => OPFans枫雪动漫
+\[GM-Team\]\[国漫\] => [GM-Team]
+(?i)\bCoolComic404\b => 酷漫字幕组
+(?i)\bSumiSora\b => 澄空学园
+(?i)\bYYDM-11FANS\b => 异域-11番小队
+康复重症 => 康复重症监护室字幕组
+ABMA => Abema
+(?i)\bLKSUB\b => 轻之国度字幕组
+\[Eternal\] => [永恒译制]
+xiaopie@CHDWEB => CHDWEB
+REMUX => Remux
+(?i)\bKitaujiSub\b => 北宇治字幕组
+(?i)\bFYSub\b => 枫叶字幕组
+DHR&MakariHoshiyume => DHR动研字幕组&茉语星梦
+(?i)\bYYSUB-RAW\b => 夜莺家族
+MSRSub&Todokoi => 野生菌字幕组&届恋字幕组
+(?i)\bTodokoi\b => 届恋字幕组
+(?i)\bHYSUB\b => 幻樱字幕组
+(?i)\bDMG\b => 动漫国字幕组
+(?i)\bigsub\b => 爱咕字幕组
+(?i)\bUHA-Wing\b|\bUHA-WINGS\b => 悠哈璃羽字幕社
+(?i)\bH-BBR\b => 氢气烤肉架
+(?i)\bBeanSub\b => 豌豆字幕组
+(?i)\bFZSD\b => 风之圣殿字幕组
+\x20*(&|＆)\x20* => &
+(?i)\borion origin\b => 猎户发布组
+(?i)\bAirota\b => 千夏字幕组
+AKito => AKito秋人
+(?i)\bLPSub\b => 离谱Sub
+(?i)\bMahoMabo\b => 魔穗字幕组&幻之字幕组
+(?i)\bMaho.sub\b|魔穗字幕组|魔穗 => 魔穗字幕组
+(?i)\bMabors Sub\b|幻之字幕组|幻之 => 幻之字幕组
+(?i)\bsuzume Ryokosha\b => 玲芽旅行团
+(?i)\bMingYSub\b|\bMingY\b => MingYSub
+(\[|【|&)Lemonade(】|]|&) => \1波子汽水汉化组\2
+(?i)\bXKsub\b|(?i)\bXK SPIRITS\b => 星空字幕组
+(?i)\bCoolFansSub\b => 冷番补完字幕组
+(?i)\bShirokoi\b => 白恋字幕组
+(?i)\bFLsnow\b => 雪飘工作室
+(\[|【|&|x|×)DAY(】|]|&|x|×) => \1DAY字幕组\2
+\[(\d{1,3})\] => [E\1]
+(?i)\bSBSUB\b => 银色子弹字幕组
+(?i)\bNekomoe kisstan\b|喵萌Production => 喵萌奶茶屋
+(?i)\bOPFansMaplesnow\b => OPFans枫雪动漫
+(?i)\bSakurato\b|樱都字幕组|桜都字幕组|桜都 => 桜都字幕组
+(?i)\bHaruhana\b => ❀拨雪寻春❀
+(?<=[\W_x])FSD(?=[\W_x]) => FSD字幕组
+酷漫(?![\u4e00-\u9fa5]) => 酷漫字幕组
+\b康复中心\b => 康复中心字幕组
+\b冷番补完\b => 冷番补完字幕组
+(?i)\bkamigami\b => 诸神字幕组
+\bbad sub\b => 摆烂字幕组
+(?i)\bMMSUB\b => 咪梦字幕组
+(?i)\bPOPGO\b => 漫游字幕组
+\bVCB-S\b => VCB-Studio
+\b1080\b => 1080p
+WMSUB-\d\dth => 风车字幕组
+(?i)\bFatCatRaw\b => 肥猫压制
+(?i)\bFSH Subtitle Group\b => FSH字幕组
+GreatMission字幕小隊 => GreatMission字幕小队
+Billion Meta Lab|\bBML\b => 亿次研同好会
+\bQBZ\b => 碧蓝档案情报站字幕组
+(?i)\bMeowskers\b => 喵鲁字幕组
+(?i)\bLiuyun\b => 流云字幕组
+(?<=[\W_])CR(?=[\W_]) => Crunchyroll
+(?<=[\W_])NF(?=[\W_]) => Netflix
+(?<=[\W_])AMZN(?=[\W_]) => Amazon
+(?<=[\W_])DV(?=[\W_]) => DoVi
+(?<=[\W_])((H?MAX)|ATVP)(?=[\W_]) => -\1
+(?<=[\W_])ATVP(?=[\W_]) => AppleTV+
+(?<=[\W_])DSNP(?=[\W_]) => Disney+
+(?<=(1080p|2160p)\.)Max\. => -MAX.
+(?<=(1080p|2160p)\.)iT\. => -iTunes.
+(?<=S\d{2}E\d{2}).+(?=(2160|1080)p.+NTb) =>  
+(?<!-)(Disney\+|playWEB|Crunchyroll|Netflix|Amazon|AppleTV\+) => -\1
+(?<=[a-zA-Z\u3040-\u309F\u30A0-\u30FF\u31F0-\u31FF\u4e00-\u9fa5])_(0?\d)(?=[\W_]((\[E?\d{1,4}\])|(\d{1,4})|(第\d+(集|话)))[\W_]) => S\1
+(?i)\b(2(?=nd)|3(?=rd)|[4-9](?=th))[A-Za-z][A-Za-z]\b( (Season|STAGE))?(?!([ \.][A-Z]?[a-z]+){2,}\b) => S\1
+(?i)^[\W_](.*?(?:社|组|組|队|隊|屋|烤肉架|制作|动漫|動漫|同好會|同好会|学园|學園|Lab|Production|House|Subs?|Raws?|Studio))[\W_]+(?:[\W_]+\d{1,2}月(?:新?番|国漫)[\W_]+)?[\[|【](.*?)[\]|】] => [\1]\2
 #========结束========#
