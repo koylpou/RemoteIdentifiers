@@ -253,9 +253,13 @@ Re Zero kara Hajimeru Isekai Seikatsu 2nd Season => Re：从零开始的异世�
 #间谍过家家
 SPYxFAMILY S2 \[ => 间谍过家家 S02E && S02E <> Ma10p >> EP-25
 
+#在地下城寻求邂逅是否搞错了什么
+DanMachi III \[OVA\] => 在地下城寻求邂逅是否搞错了什么 S00E04
+DanMachi II \[OVA\] => 在地下城寻求邂逅是否搞错了什么 S00E03
+DanMachi \[OVA\] => 在地下城寻求邂逅是否搞错了什么 S00E01
+
 #辅助识别
 (\b[1-9][0-9][0-9]\b) =>  E\1
-
 \[Movie\]
 \.(第\d{1,2}集)\. => \1
 (?i)Season( *)0?(\d+) => S\2
