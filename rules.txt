@@ -263,7 +263,7 @@ One-Punch Man \[OAD\] => One-Punch Man S00E01
 One-Punch Man \[OVA => One-Punch Man S00E && S00E <> Ma10p >> EP+1
 
 #CLANNAD
-劇場版 CLANNAD => 剧场版 CLANNAD {[tmdbid=16516;type=movie]}
+劇場版 CLANNAD => 剧场版 CLANNAD {[tmdbid=16516-clannad;type=movie]}
 Clannad 2007 SP => Clannad S00E
 Clannad ~After Story~ 2008 EP => Clannad S02E
 Clannad ~After Story~ 2008 SP => Clannad S00E && S00E <> BluRay >> EP+2
